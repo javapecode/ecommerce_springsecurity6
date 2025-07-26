@@ -29,7 +29,7 @@ This is a **secure e-commerce web application** built using:
 | Backend        | Spring Boot        |
 | Security       | Spring Security 6  |
 | Auth           | JWT                |
-| Database       | MySQL / H2         |
+| Database       | MySQL8        |
 | Build Tool     | Maven              |
 
 ## ▶️ Getting Started
